@@ -26,3 +26,7 @@ I am Guneet Singh Talwar, a second year Computer Science Student at Thapar Unive
   <img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> 
 </p>
+<p align="center">
+<a href="https://www.instagram.com/guneettalwar_29/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png" width="60"></a>  
+<a href="https://www.linkedin.com/in/guneet-talwar-0064791b6/?originalSubdomain=in"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+</p>

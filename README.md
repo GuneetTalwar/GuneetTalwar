@@ -7,7 +7,7 @@
 I am Guneet Singh Talwar, a second year Computer Science Student at Thapar University, Patiala. I am passionate about cutting edge technology and solving real world problems. I am skilled in full stack development and also very interested in AI!
 
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on full stack development projects with a scope for integration of machine learning tasks to solve real world problems
 - 💬 Ask me about anything I would love to help you out if possible
 - 📫 You can contact me at guneetsinghtalwar@gmail.com

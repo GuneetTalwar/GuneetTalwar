@@ -4,7 +4,7 @@
 <img src='https://media1.tenor.com/images/e884f717b42f78f0792d914117cd010d/tenor.gif?itemid=9442662'>
 </p>
 
-I am Guneet Singh Talwar, a second year Computer Science Student at Thapar University, Patiala. I am passionate about cutting edge technology and solving real world problems. I am skilled in full stack development and also very interested in AI!
+I am Guneet Singh Talwar, a final year Computer Science Student at Thapar University, Patiala. I am passionate about cutting edge technology and solving real world problems. I am skilled in full stack development and also very interested in AI!
 
 
 - 🌱 I’m currently learning Machine Learning and Data Science
